@@ -6,5 +6,5 @@ export const config = {
   utcOffset: 8,
   description: "Sync your thoughts from Apple Notes by Shortcuts.",
   keywords: "memo, thought, sync, apple notes, shortcuts, ios",
-  url: "https://moire.blog"
+  url: "https://m.yueya.info"
 };
